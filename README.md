@@ -2,10 +2,10 @@
 
 # PowerUp - Android
 
-PowerUp is a female empowerment educational mobile game app that will allow young girls to learn about reproductive health 
+PowerUP is a female empowerment educational mobile game app that will allow young girls to learn about reproductive health 
 and self-esteem by navigating the life of their avatar!
 
-## Setup for Developers
+## Setup for Developers-
 1. Make sure you have downloaded the latest version of [Android Studio](https://developer.android.com/sdk/index.html). It works on Linux, Windows and Mac. Download the correct version for your OS.
 2. Go to [the project repo](https://github.com/systers/powerup-android/) and fork it by clicking "Fork" 
 3. If you are working on Windows, download [Git Bash for Windows](https://git-for-windows.github.io/) to get a full Unix bash with Git functionality
@@ -42,7 +42,7 @@ When a repository is cloned, it has a default remote called `origin` that points
 ## Contributing and developing a feature
 1. Make sure you are in the develop branch `git checkout develop`
 1. Create a new branch with a meaningful name `git checkout -b branch_name`
-1. Develop your feature on Android Studio and run it using the emulator or connecting your own Android device
+1. Develop your feature on Android Studio and run it using the emulator or connecting your own Android device.
 1. Clean your project from Android Studio `Build/Clean project`
 1. Add the files you changed `git add file_name` (avoid using `git add .`)
 1. Commit your changes `git commit -m "Message briefly explaining the feature"`
@@ -50,7 +50,7 @@ When a repository is cloned, it has a default remote called `origin` that points
 1. Push to your repo `git push origin branch-name`
 1. Go into [the Github repo](https://github.com/systers/powerup-android/) and create a pull request explaining your changes
 1. If you are requested to make changes, edit your commit using `git commit --amend`, push again and the pull request will edit automatically
-1. You will need to add a message on the pull request notifying your changes to your reviewer
+1. You will need to add a message on the pull request notifying your changes to your reviewer.
 
 ## Contributing Guidelines 
 [Click](https://github.com/systers/powerup-android/wiki/How-to-Contribute) here to find the contributing guidelines for the project and follow them before sending a contribution.
